@@ -6,14 +6,13 @@
 
 
 ## Basic Details
-### Team Name: [Your Team Name]
+### Team Name: IDIOTS
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
-- Member 4: [Name] - [College]
+- Member 1: Naharin - Government Engineering college Westhill
+- Member 2: Karthika M Nambiar - Government Engineering college Westhill
+
 
 ### Project Description
 AmICooked? is a completely unnecessary but surprisingly accurate student survival analyzer that calculates how academically "COOKED" you are.
@@ -66,6 +65,10 @@ For Hardware:
 For Software:
 
 # Installation
+Clone the repository:
+```bash
+git clone https://github.com/Karthika-M-Nambiar/useless_project_temp.git
+```
 
 
 #Screenshots
@@ -77,12 +80,9 @@ For Software:
 <img width="1920" height="1200" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/adabbfee-bbde-4e16-a708-ac2a06614871" />
 <img width="1920" height="1200" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/7b7190bb-43b4-4b51-9190-319670ebef42" />
 
-
+#Video
 https://github.com/user-attachments/assets/6e8708d9-cb6b-41c7-bd9c-f3c743df8205
-Clone the repository:
-```bash
-git clone https://github.com/Karthika-M-Nambiar/useless_project_temp.git
-```
+
 
 
 
